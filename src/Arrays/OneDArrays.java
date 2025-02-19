@@ -15,6 +15,9 @@ public class OneDArrays {
         System.out.println("Il valore della posizione 1 dell array è: " + countryPopulation[1]);
 
 
+        }
+
+
     }
 
 
