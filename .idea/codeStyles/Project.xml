@@ -6,7 +6,6 @@
       <option name="CALL_PARAMETERS_WRAP" value="5" />
       <option name="METHOD_PARAMETERS_WRAP" value="2" />
       <option name="FOR_STATEMENT_RPAREN_ON_NEXT_LINE" value="true" />
-      <option name="SWITCH_EXPRESSIONS_WRAP" value="2" />
       <option name="IF_BRACE_FORCE" value="3" />
       <option name="DOWHILE_BRACE_FORCE" value="3" />
       <option name="WHILE_BRACE_FORCE" value="3" />
