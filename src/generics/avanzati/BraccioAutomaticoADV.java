@@ -18,7 +18,7 @@ public class BraccioAutomaticoADV {
 
     public void versaBevanda() {
         if (bottiglia != null && bottiglia.bicchieriDisponibili > 0) {
-            System.out.println("versa " + bottiglia.getContenuto().toString());
+            System.out.println("Sto versando " + bottiglia.getContenuto().toString());
 
         } else {
             System.out.println("La bottiglia è vuota");

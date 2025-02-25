@@ -1,6 +1,6 @@
 package generics.avanzati;
 
-public class Demo {
+public class DemoADV {
     public static void main(String[] args) {
 
         BottigliaADV<AcquaADV> bottiglia1 = new BottigliaADV<>(new AcquaADV());

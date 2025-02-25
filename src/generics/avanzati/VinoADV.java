@@ -6,6 +6,6 @@ public class VinoADV implements BevandaADV<VinoADV> {
 
     @Override
     public String toString() {
-        return "Una bottiglia di vino";
+        return "una bottiglia di vino";
     }
 }

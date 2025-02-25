@@ -4,7 +4,7 @@ public class Acqua {
 
     @Override
     public String toString() {
-        return "Una bottiglia di acqua";
+        return "una bottiglia di acqua";
     }
 
 
